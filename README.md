@@ -20,11 +20,11 @@
 
 1. [**Diffusion Models for Non-autoregressive Text Generation: A Survey.**](https://arxiv.org/abs/2303.06574) *Yifan Li, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen.* IJCAI 2023.
 
-2. [**# Diffusion models in text generation: a survey.**](https://peerj.com/articles/cs-1905/) *Qiuhua Yi, Xiangfan Chen, Chenwei Zhang, Zehai Zhou, Linan Zhu, Xiangjie Kong.* PeerJ Computer Science.
+2. [**Diffusion models in text generation: a survey.**](https://peerj.com/articles/cs-1905/) *Qiuhua Yi, Xiangfan Chen, Chenwei Zhang, Zehai Zhou, Linan Zhu, Xiangjie Kong.* PeerJ Computer Science.
 
-3. [**# A Survey of Diffusion Models in Natural Language Processing.**](https://arxiv.org/abs/2305.14671) *Hao Zou, Zae Myung Kim, Dongyeop Kang.* Arxiv 2023.
+3. [**A Survey of Diffusion Models in Natural Language Processing.**](https://arxiv.org/abs/2305.14671) *Hao Zou, Zae Myung Kim, Dongyeop Kang.* Arxiv 2023.
 
-3. [**# Diffusion Models in NLP: A Survey.**](https://arxiv.org/abs/2303.07576) *Yuansong Zhu, Yu Zhao.* Arxiv 2023.
+3. [**Diffusion Models in NLP: A Survey.**](https://arxiv.org/abs/2303.07576) *Yuansong Zhu, Yu Zhao.* Arxiv 2023.
 
 
 ## 🎯 Methods
