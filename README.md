@@ -70,25 +70,25 @@
  
 20. [**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**](https://arxiv.org/abs/2402.07754) *Jiacheng Ye, Shansan Gong, Liheng Chen, Lin Zheng, Jiahui Gao, Han Shi, Chuan Wu, Zhenguo Li, Wei Bi, Lingpeng Kong.* Arxiv 2024 Feb
  
-21. [**Transfer Learning for Text Diffusion Models**](https://arxiv.org/abs/2401.17181) *Author Placeholder* Arxiv 2024 Jan
+21. [**Transfer Learning for Text Diffusion Models**](https://arxiv.org/abs/2401.17181) *Kehang Han, Kathleen Kenealy, Aditya Barua, Noah Fiedel, Noah Constant.* Arxiv 2024 Jan
  
-22. [**MDM: Meta diffusion model for hard-constrained text generation**](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008973) *Author Placeholder* Arxiv 2024 Jan
+22. [**MDM: Meta diffusion model for hard-constrained text generation**](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008973) *Wenjun Ke, Yikai Guo, Qi Liu, Wanyi Chen, Peng Wang, Haoran Luo, Zhizhao Luo.* Knowledge-Based Systems 2024 Jan
  
-23. [**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**](https://arxiv.org/abs/2401.03514) *Author Placeholder* Arxiv 2024 Jan
+23. [**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**](https://arxiv.org/abs/2401.03514) *Shilong Yuan, Wei Yuan, Hongzhi Yin, Tieke He.* Arxiv 2024 Jan
  
-24. [**Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models**](https://arxiv.org/abs/2312.15490) *Author Placeholder* Arxiv 2023 Dec
+24. [**Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models**](https://arxiv.org/abs/2312.15490) *Ling Li, Shaohua Li, Winda Marantika, Alex C. Kot, Huijing Zhan.* Arxiv 2023 Dec
  
-25. [**IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition**](https://arxiv.org/abs/2312.11923) *Author Placeholder* Arxiv 2023 Dec
+25. [**IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition**](https://arxiv.org/abs/2312.11923) *Xiaomeng Yang, Zhi Qiao, Yu Zhou, Weiping Wang.* Arxiv 2023 Dec
  
-26. [**DiffuVST: Narrating Fictional Scenes with Global-History-Guided Denoising Models**](https://arxiv.org/abs/2312.07066) *Author Placeholder* Arxiv 2023 Dec
+26. [**DiffuVST: Narrating Fictional Scenes with Global-History-Guided Denoising Models**](https://arxiv.org/abs/2312.07066) *Shengguang Wu, Mei Yuan, Qi Su.* EMNLP 2023 Dec
  
-27. [**DiffusionSL: Sequence Labeling via Tag Diffusion Process**](https://aclanthology.org/2023.findings-emnlp.860/) *Author Placeholder* Arxiv 2023 Dec
+27. [**DiffusionSL: Sequence Labeling via Tag Diffusion Process**](https://aclanthology.org/2023.findings-emnlp.860/) *Ziyang Huang, Pengfei Cao, Jun Zhao, Kang Liu.* EMNLP 2023 Dec
  
-28. [**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://aclanthology.org/2023.emnlp-main.716/) *Author Placeholder* Arxiv 2023 Oct
+28. [**CodeFusion: A Pre-trained Diffusion Model for Code Generation**](https://aclanthology.org/2023.emnlp-main.716/) *Mukul Singh, José Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, Gust Verbruggen.* EMNLP 2023 Oct
  
-29. [**Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution**](https://arxiv.org/abs/2310.16834) *Author Placeholder* Arxiv 2023 Oct
+29. [**Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution**](https://arxiv.org/abs/2310.16834) *Aaron Lou, Chenlin Meng, Stefano Ermon.* Arxiv 2023 Oct
  
-30. [**A Diffusion Weighted Graph Framework for New Intent Discovery**](https://arxiv.org/abs/2310.15836) *Author Placeholder* Arxiv 2023 Oct
+30. [**A Diffusion Weighted Graph Framework for New Intent Discovery**](https://arxiv.org/abs/2310.15836) *Wenkai Shi, Wenbin An, Feng Tian, Qinghua Zheng, QianYing Wang, Ping Chen.* EMNLP 2023 Oct
  
 31. [**ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts**](https://arxiv.org/abs/2310.15587) *Author Placeholder* Arxiv 2023 Oct
  
