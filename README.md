@@ -7,14 +7,13 @@
 ## 🔍 Table of Contents
 - [🌟 What is Diffusion Model For NLP?](#-what-is-diffusion-model-for-nlp)
 - [🔗 Surveys](#-surveys)
-- [🎯 Methods](#-methods)
-- [🤔 Analysis](#-analysis)
+- [📝 Papers](#-papers)
 - [📍 Resources](#-resources)
 - [🤗 Contribution](#-contribution)
   - [Contributors](#contributors)
   - [Acknowledgement](#acknowledgement)
 
-## 🌟 What is Diffusion Model For NLP?
+## 🌟 What is the Diffusion Model For NLP?
 
 ## 🔗 Surveys
 
@@ -27,15 +26,14 @@
 3. [**Diffusion Models in NLP: A Survey.**](https://arxiv.org/abs/2303.07576) *Yuansong Zhu, Yu Zhao.* Arxiv 2023.
 
 
-## 🎯 Methods
-
-## 🤔 Analysis
+## 📝 Papers
 
 ## 📍 Resources
 
 ## 🤗 Contribution
 
 ### Contributors
+Zecheng Tang, Youyuan Zhang, Haolun Wu, Ye Yuan
 
 ### Contributing to this project
 Please feel free to file a PR for contributing to this project! Thanks so much for your help!
