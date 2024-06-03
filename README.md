@@ -150,25 +150,25 @@
  
 60. [**DiffuSum: Generation Enhanced Extractive Summarization with Diffusion**](https://arxiv.org/abs/2305.01735) *Haopeng Zhang, Xiao Liu, Jiawei Zhang.* ACL 2023 May
  
-61. [**GlyphDiffusion: Text Generation as Image Generation**](https://arxiv.org/abs/2304.12519) *Author Placeholder* Arxiv 2023 Apr
+61. [**GlyphDiffusion: Text Generation as Image Generation**](https://arxiv.org/abs/2304.12519) *Junyi Li, Wayne Xin Zhao, Jian-Yun Nie, Ji-Rong Wen.* Arxiv 2023 Apr
  
-62. [**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**](https://arxiv.org/abs/2304.04746) *Author Placeholder* Arxiv 2023 Apr
+62. [**A Cheaper and Better Diffusion Language Model with Soft-Masked Noise**](https://arxiv.org/abs/2304.04746) *Jiaao Chen, Aston Zhang, Mu Li, Alex Smola, Diyi Yang.* EMNLP 2023 Apr
  
-63. [**DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises**](https://arxiv.org/abs/2302.10025) *Author Placeholder* Arxiv 2023 Feb
+63. [**DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises**](https://arxiv.org/abs/2302.10025) Jiasheng Ye, Zaixiang Zheng, Yu Bao, Lihua Qian, Mingxuan Wang.* TACL 2023 Feb
  
-64. [**A Reparameterized Discrete Diffusion Model for Text Generation**](https://arxiv.org/abs/2302.05737) *Author Placeholder* Arxiv 2023 Feb
+64. [**A Reparameterized Discrete Diffusion Model for Text Generation**](https://arxiv.org/abs/2302.05737) *Lin Zheng, Jianbo Yuan, Lei Yu, Lingpeng Kong.* Arxiv 2023 Feb
  
-65. [**Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise**](https://arxiv.org/abs/2212.11685) *Author Placeholder* Arxiv 2022 Dec
+65. [**Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise**](https://arxiv.org/abs/2212.11685) *Zhenghao Lin, Yeyun Gong, Yelong Shen, Tong Wu, Zhihao Fan, Chen Lin, Nan Duan, Weizhu Chen.* ICML 2022 Dec
  
-66. [**SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers**](https://arxiv.org/abs/2212.10325) *Author Placeholder* Arxiv 2022 Dec
+66. [**SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers**](https://arxiv.org/abs/2212.10325) *Hongyi Yuan, Zheng Yuan, Chuanqi Tan, Fei Huang, Songfang Huang.* Arxiv 2022 Dec
  
-67. [**Latent Diffusion for Language Generation**](https://arxiv.org/abs/2212.09462) *Author Placeholder* Arxiv 2022 Dec
+67. [**Latent Diffusion for Language Generation**](https://arxiv.org/abs/2212.09462) *Justin Lovelace, Varsha Kishore, Chao Wan, Eliot Shekhtman, Kilian Q. Weinberger.* NeurIPS 2022 Dec
  
-68. [**Empowering Diffusion Models on the Embedding Space for Text Generation**](https://arxiv.org/abs/2212.09412) *Author Placeholder* Arxiv 2022 Dec
+68. [**Empowering Diffusion Models on the Embedding Space for Text Generation**](https://arxiv.org/abs/2212.09412) *Zhujin Gao, Junliang Guo, Xu Tan, Yongxin Zhu, Fang Zhang, Jiang Bian, Linli Xu.* NAACL 2022 Dec
  
-69. [**DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models**](https://arxiv.org/abs/2211.15029) *Author Placeholder* Arxiv 2022 Nov
+69. [**DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models**](https://arxiv.org/abs/2211.15029) *Zhengfu He, Tianxiang Sun, Qiong Tang, Kuanning Wang, Xuanjing Huang, Xipeng Qiu.* ACL 2022 Nov
  
-70. [**Continuous diffusion for categorical data**](https://arxiv.org/abs/2211.15089) *Author Placeholder* Arxiv 2022 Nov
+70. [**Continuous diffusion for categorical data**](https://arxiv.org/abs/2211.15089) *Sander Dieleman, Laurent Sartran, Arman Roshannai, Nikolay Savinov, Yaroslav Ganin, Pierre H. Richemond, Arnaud Doucet, Robin Strudel, Chris Dyer, Conor Durkan, Curtis Hawthorne, Rémi Leblond, Will Grathwohl, Jonas Adler.* Arxiv 2022 Nov
  
 71. [**Self-conditioned Embedding Diffusion for Text Generation**](https://arxiv.org/abs/2211.04236) *Author Placeholder* Arxiv 2022 Nov
  
