@@ -18,7 +18,7 @@
 ## 🔗 Surveys
 1. [**Diffusion models in text generation: a survey**](https://peerj.com/articles/cs-1905/) *Qiuhua Yi, Xiangfan Chen, Chenwei Zhang, Zehai Zhou, Linan Zhu, Xiangjie Kong.* PeerJ Computer Science 2024 Feb
  
-2. [**An Overview of Diffusion Models for Text Generation**](https://ieeexplore.ieee.org/document/10159911) *Helena Čeović, Marin Šilić, Goran Delač, Klemo Vladimir* Arxiv 2023 Jun
+2. [**An Overview of Diffusion Models for Text Generation**](https://ieeexplore.ieee.org/document/10159911) *Helena Čeović, Marin Šilić, Goran Delač, Klemo Vladimir.* Arxiv 2023 Jun
  
 3. [**A Survey of Diffusion Models in Natural Language Processing**](https://arxiv.org/abs/2305.14671) *Hao Zou, Zae Myung Kim, Dongyeop Kang.* Arxiv 2023 May
  
@@ -30,45 +30,45 @@
 
 
 ## 📝 Papers
-1. [**Effective Integration of Text Diffusion and Pre-Trained Language Models with Linguistic Easy-First Schedule**](https://aclanthology.org/2024.lrec-main.493/) *Yimin Ou, Ping Jian* LREC | COLING 2024 May
+1. [**Effective Integration of Text Diffusion and Pre-Trained Language Models with Linguistic Easy-First Schedule**](https://aclanthology.org/2024.lrec-main.493/) *Yimin Ou, Ping Jian.* LREC | COLING 2024 May
  
-2. [**Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation**](https://aclanthology.org/2024.lrec-main.637/) *Bocheng Li, Zhujin Gao, Yongxin Zhu, Kun Yin, Haoyu Cao, Deqiang Jiang, Linli Xu* LREC | COLING 2024 May
+2. [**Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation**](https://aclanthology.org/2024.lrec-main.637/) *Bocheng Li, Zhujin Gao, Yongxin Zhu, Kun Yin, Haoyu Cao, Deqiang Jiang, Linli Xu.* LREC | COLING 2024 May
  
-3. [**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**](https://arxiv.org/abs/2404.10763) *Yuchi Wang, Shuhuai Ren, Rundong Gao, Linli Yao, Qingyan Guo, Kaikai An, Jianhong Bai, Xu Sun* NAACL 2024 Apr
+3. [**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**](https://arxiv.org/abs/2404.10763) *Yuchi Wang, Shuhuai Ren, Rundong Gao, Linli Yao, Qingyan Guo, Kaikai An, Jianhong Bai, Xu Sun.* NAACL 2024 Apr
  
-4. [**Enforcing Paraphrase Generation via Controllable Latent Diffusion**](https://arxiv.org/abs/2404.08938) *Wei Zou, Ziyuan Zhuang, Shujian Huang, Jia Liu, Jiajun Chen* Arxiv 2024 Apr
+4. [**Enforcing Paraphrase Generation via Controllable Latent Diffusion**](https://arxiv.org/abs/2404.08938) *Wei Zou, Ziyuan Zhuang, Shujian Huang, Jia Liu, Jiajun Chen.* Arxiv 2024 Apr
  
-5. [**Diffuwords: A Contrastive Diffusion Model for Lexically Constrained Text Generation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790017) *Jinqiao Dai, Pengsen Cheng, Jiamiao Liu, Jiayong Liu* SSRN 2024 Apr
+5. [**Diffuwords: A Contrastive Diffusion Model for Lexically Constrained Text Generation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790017) *Jinqiao Dai, Pengsen Cheng, Jiamiao Liu, Jiayong Liu.* SSRN 2024 Apr
  
-6. [**DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space**](https://arxiv.org/abs/2404.06760) *Jianxiang Xiang, Zhenhua Liu, Haodong Liu, Yin Bai, Jia Cheng, Wenliang Chen* LREC | COLING 2024 Apr
+6. [**DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space**](https://arxiv.org/abs/2404.06760) *Jianxiang Xiang, Zhenhua Liu, Haodong Liu, Yin Bai, Jia Cheng, Wenliang Chen.* LREC | COLING 2024 Apr
  
-7. [**Improving Iteration-based Non-Autoregressive Language Model With Time Step Awareness**](https://www.researchgate.net/publication/379326543_Improving_Iteration-based_Non-Autoregressive_Language_Model_With_Time_Step_Awareness) *Hang Jiang, Guoyong Cai, Xiaolu Tang* ICPADS 2024 Mar
+7. [**Improving Iteration-based Non-Autoregressive Language Model With Time Step Awareness**](https://www.researchgate.net/publication/379326543_Improving_Iteration-based_Non-Autoregressive_Language_Model_With_Time_Step_Awareness) *Hang Jiang, Guoyong Cai, Xiaolu Tang.* ICPADS 2024 Mar
  
-8. [**Language Rectified Flow: Advancing Diffusion Language Generation with Probabilistic Flows**](https://arxiv.org/abs/2403.16995) *Shujian Zhang, Lemeng Wu, Chengyue Gong, Xingchao Liu* NAACL 2024 Mar
+8. [**Language Rectified Flow: Advancing Diffusion Language Generation with Probabilistic Flows**](https://arxiv.org/abs/2403.16995) *Shujian Zhang, Lemeng Wu, Chengyue Gong, Xingchao Liu.* NAACL 2024 Mar
  
-9. [**Flow Matching for Conditional Text Generation in a Few Sampling Steps**](https://aclanthology.org/2024.eacl-short.33/) *Vincent Hu, Di Wu, Yuki Asano, Pascal Mettes, Basura Fernando, Björn Ommer, Cees Snoek* EACL 2024 Mar
+9. [**Flow Matching for Conditional Text Generation in a Few Sampling Steps**](https://aclanthology.org/2024.eacl-short.33/) *Vincent Hu, Di Wu, Yuki Asano, Pascal Mettes, Basura Fernando, Björn Ommer, Cees Snoek.* EACL 2024 Mar
  
-10. [**Utilizing Latent Diffusion Model to Accelerate Sampling Speed and Enhance Text Generation Quality**](https://www.mdpi.com/2079-9292/13/6/1093) *Chenyang Li, Long Zhang, Qiusheng Zheng* Special Issue Advances in Artificial Intelligence Engineering 2024 Mar
+10. [**Utilizing Latent Diffusion Model to Accelerate Sampling Speed and Enhance Text Generation Quality**](https://www.mdpi.com/2079-9292/13/6/1093) *Chenyang Li, Long Zhang, Qiusheng Zheng.* Special Issue Advances in Artificial Intelligence Engineering 2024 Mar
  
-11. [**LDSeq: Latent Diffusion Models for Sequence to Sequence Text Generation**](https://dl.acm.org/doi/10.1145/3638584.3638617) *Author Placeholder* Arxiv 2024 Mar
+11. [**LDSeq: Latent Diffusion Models for Sequence to Sequence Text Generation**](https://dl.acm.org/doi/10.1145/3638584.3638617) *Yizhou Ding, Jidong Tian, Shanxing Mei, Yifan Zhou, Yuwu Dong, Hao He, Weisheng Hu.* CSAI 2024 Mar
  
-12. [**Benchmarking Diffusion Models for Machine Translation**](https://aclanthology.org/2024.eacl-srw.25/) *Author Placeholder* Arxiv 2024 Mar
+12. [**Benchmarking Diffusion Models for Machine Translation**](https://aclanthology.org/2024.eacl-srw.25/) *Yunus Demirag, Danni Liu, Jan Niehues.* EACL 2024 Mar
  
-13. [**Generating, Reconstructing, and Representing Discrete and Continuous Data: Generalized Diffusion with Learnable Encoding-Decoding**](https://arxiv.org/abs/2402.19009) *Author Placeholder* Arxiv 2024 Feb
+13. [**Generating, Reconstructing, and Representing Discrete and Continuous Data: Generalized Diffusion with Learnable Encoding-Decoding**](https://arxiv.org/abs/2402.19009) *Guangyi Liu, Yu Wang, Zeyu Feng, Qiyu Wu, Liping Tang, Yuan Gao, Zhen Li, Shuguang Cui, Julian McAuley, Eric P. Xing, Zichao Yang, Zhiting Hu.* Arxiv 2024 Feb
  
-14. [**TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings**](https://arxiv.org/abs/2402.19097) *Author Placeholder* Arxiv 2024 Feb
+14. [**TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings**](https://arxiv.org/abs/2402.19097) *Alexander Shabalin, Viacheslav Meshchaninov, Tingir Badmaev, Dmitry Molchanov, Grigory Bartosh, Sergey Markov, Dmitry Vetrov.* Arxiv 2024 Feb
  
-15. [**DiffuCOMET: Contextual Commonsense Knowledge Diffusion**](https://arxiv.org/abs/2402.17011) *Author Placeholder* Arxiv 2024 Feb
+15. [**DiffuCOMET: Contextual Commonsense Knowledge Diffusion**](https://arxiv.org/abs/2402.17011) *Silin Gao, Mete Ismayilzada, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut.* Arxiv 2024 Feb
  
-16. [**IPED: An Implicit Perspective for Relational Triple Extraction based on Diffusion Model**](https://arxiv.org/abs/2403.00808) *Author Placeholder* Arxiv 2024 Feb
+16. [**IPED: An Implicit Perspective for Relational Triple Extraction based on Diffusion Model**](https://arxiv.org/abs/2403.00808) *Jianli Zhao, Changhao Xu, Bin Jiang.* NAACL 2024 Feb
  
-17. [**Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models**](https://arxiv.org/abs/2402.15289) *Author Placeholder* Arxiv 2024 Feb
+17. [**Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models**](https://arxiv.org/abs/2402.15289) *Shunyu Liu, Jie Zhou, Qunxi Zhu, Qin Chen, Qingchun Bai, Jun Xiao, Liang He.* LREC | COLING 2024 Feb
  
-18. [**Text Diffusion with Reinforced Conditioning**](https://arxiv.org/abs/2402.14843) *Author Placeholder* Arxiv 2024 Feb
+18. [**Text Diffusion with Reinforced Conditioning**](https://arxiv.org/abs/2402.14843) *Yuxuan Liu, Tianchi Yang, Shaohan Huang, Zihan Zhang, Haizhen Huang, Furu Wei, Weiwei Deng, Feng Sun, Qi Zhang.* Arxiv 2024 Feb
  
-19. [**Quantized Embedding Vectors for Controllable Diffusion Language Models**](https://arxiv.org/abs/2402.10107) *Author Placeholder* Arxiv 2024 Feb
+19. [**Quantized Embedding Vectors for Controllable Diffusion Language Models**](https://arxiv.org/abs/2402.10107) *Cheng Kang, Xinye Chen, Yong Hu, Daniel Novak.* Arxiv 2024 Feb
  
-20. [**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**](https://arxiv.org/abs/2402.07754) *Author Placeholder* Arxiv 2024 Feb
+20. [**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**](https://arxiv.org/abs/2402.07754) *Jiacheng Ye, Shansan Gong, Liheng Chen, Lin Zheng, Jiahui Gao, Han Shi, Chuan Wu, Zhenguo Li, Wei Bi, Lingpeng Kong.* Arxiv 2024 Feb
  
 21. [**Transfer Learning for Text Diffusion Models**](https://arxiv.org/abs/2401.17181) *Author Placeholder* Arxiv 2024 Jan
  
