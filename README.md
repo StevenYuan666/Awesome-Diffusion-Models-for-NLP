@@ -130,25 +130,25 @@
  
 50. [**Dior-CVAE: Pre-trained Language Models and Diffusion Priors for Variational Dialog Generation**](https://arxiv.org/abs/2305.15025) *Tianyu Yang, Thy Thy Tran, Iryna Gurevych.* EMNLP 2023 May
  
-51. [**David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs**](https://arxiv.org/abs/2305.14771) *Author Placeholder* Arxiv 2023 May
+51. [**David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs**](https://arxiv.org/abs/2305.14771) *Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov, Marjan Ghazvininejad.* Arxiv 2023 May
  
-52. [**Diffusionner: Boundary diffusion for named entity recognition**](https://arxiv.org/abs/2305.13298) *Author Placeholder* Arxiv 2023 May
+52. [**Diffusionner: Boundary diffusion for named entity recognition**](https://arxiv.org/abs/2305.13298) *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang.* ACL 2023 May
  
-53. [**Fine-grained Text Style Transfer with Diffusion-Based Language Models**](https://arxiv.org/abs/2305.19512) *Author Placeholder* Arxiv 2023 May
+53. [**Fine-grained Text Style Transfer with Diffusion-Based Language Models**](https://arxiv.org/abs/2305.19512) *Yiwei Lyu, Tiange Luo, Jiacheng Shi, Todd Hollon, Honglak Lee.* RepL4NLP 2023 May
  
-54. [**DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion**](https://arxiv.org/abs/2305.11517#:~:text=Concretely%2C%20the%20conditional%20information%20from,for%20deep%20fusion%20and%20understanding.) *Author Placeholder* Arxiv 2023 May
+54. [**DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion**](https://arxiv.org/abs/2305.11517#:~:text=Concretely%2C%20the%20conditional%20information%20from,for%20deep%20fusion%20and%20understanding.) *Chao-Hong Tan, Jia-Chen Gu, Zhen-Hua Ling.* Arxiv 2023 May
  
-55. [**Diffusion Language Models Generation Can Be Halted Early**](https://arxiv.org/abs/2305.10818) *Author Placeholder* Arxiv 2023 May
+55. [**Diffusion Language Models Generation Can Be Halted Early**](https://arxiv.org/abs/2305.10818) *Sofia Maria Lo Cicero Vaina, Nikita Balagansky, Daniil Gavrilov.* Arxiv 2023 May
  
-56. [**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**](https://arxiv.org/abs/2305.09515) *Author Placeholder* Arxiv 2023 May
+56. [**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**](https://arxiv.org/abs/2305.09515) *Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen.* NeurIPS 2023 May
  
-57. [**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**](https://arxiv.org/abs/2305.08379) *Author Placeholder* Arxiv 2023 May
+57. [**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**](https://arxiv.org/abs/2305.08379) *Rabeeh Karimi Mahabadi, Hamish Ivison, Jaesung Tae, James Henderson, Iz Beltagy, Matthew Peters, Arman Cohan.* EACL 2023 May
  
-58. [**Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!**](https://arxiv.org/abs/2305.04465) *Author Placeholder* Arxiv 2023 May
+58. [**Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!**](https://arxiv.org/abs/2305.04465) *Zecheng Tang, Pinzheng Wang, Keyan Zhou, Juntao Li, Ziqiang Cao, Min Zhang.* ACL 2023 May
  
-59. [**Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation**](https://arxiv.org/abs/2305.04044) *Author Placeholder* Arxiv 2023 May
+59. [**Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation**](https://arxiv.org/abs/2305.04044) *Kun Zhou, Yifan Li, Xin Zhao, Ji-Rong Wen.* EACL 2023 May
  
-60. [**DiffuSum: Generation Enhanced Extractive Summarization with Diffusion**](https://arxiv.org/abs/2305.01735) *Author Placeholder* Arxiv 2023 May
+60. [**DiffuSum: Generation Enhanced Extractive Summarization with Diffusion**](https://arxiv.org/abs/2305.01735) *Haopeng Zhang, Xiao Liu, Jiawei Zhang.* ACL 2023 May
  
 61. [**GlyphDiffusion: Text Generation as Image Generation**](https://arxiv.org/abs/2304.12519) *Author Placeholder* Arxiv 2023 Apr
  
