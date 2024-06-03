@@ -110,25 +110,25 @@
  
 40. [**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**](https://arxiv.org/abs/2308.12219) *Jiasheng Ye, Zaixiang Zheng, Yu Bao, Lihua Qian, Quanquan Gu.* Arxiv 2023 Aug
  
-41. [**Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction**](https://arxiv.org/abs/2308.08739) *Author Placeholder* Arxiv 2023 Aug
+41. [**Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction**](https://arxiv.org/abs/2308.08739) *Yuanzhen Luo, Qingyu Zhou, Feng Zhou.* LREC | COLING 2023 Aug
  
-42. [**How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data?**](https://arxiv.org/abs/2307.13949) *Author Placeholder* Arxiv 2023 Jul
+42. [**How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data?**](https://arxiv.org/abs/2307.13949) *Huazheng Wang, Daixuan Cheng, Haifeng Sun, Jingyu Wang, Qi Qi, Jianxin Liao, Jing Wang, Cong Liu.* ECAI 2023 Jul
  
-43. [**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**](https://arxiv.org/abs/2307.13560) *Author Placeholder* Arxiv 2023 Jul
+43. [**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**](https://arxiv.org/abs/2307.13560) *Linyao Chen, Aosong Feng, Boming Yang, Zihui Li.* Arxiv 2023 Jul
  
-44. [**Controllable Conversation Generation with Conversation Structures via Diffusion Models**](https://aclanthology.org/2023.findings-acl.454/) *Author Placeholder* Arxiv 2023 Jul
+44. [**Controllable Conversation Generation with Conversation Structures via Diffusion Models**](https://aclanthology.org/2023.findings-acl.454/) *Jiaao Chen, Diyi Yang.* ACL 2023 Jul
  
-45. [**PoetryDiffusion: Towards Joint Semantic and Metrical Manipulation in Poetry Generation**](https://arxiv.org/abs/2306.08456) *Author Placeholder* Arxiv 2023 Jun
+45. [**PoetryDiffusion: Towards Joint Semantic and Metrical Manipulation in Poetry Generation**](https://arxiv.org/abs/2306.08456) *Zhiyuan Hu, Chumin Liu, Yue Feng, Anh Tuan Luu, Bryan Hooi.* AAAI 2023 Jun
  
-46. [**DiffuDetox: A Mixed Diffusion Model for Text Detoxification**](https://arxiv.org/abs/2306.08505) *Author Placeholder* Arxiv 2023 Jun
+46. [**DiffuDetox: A Mixed Diffusion Model for Text Detoxification**](https://arxiv.org/abs/2306.08505) *Griffin Floto, Mohammad Mahdi Abdollah Pour, Parsa Farinneya, Zhenwei Tang, Ali Pesaranghader, Manasa Bharadwaj, Scott Sanner.* ACL 2023 Jun
  
-47. [**PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model**](https://arxiv.org/abs/2306.02531) *Author Placeholder* Arxiv 2023 Jun
+47. [**PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model**](https://arxiv.org/abs/2306.02531) *Yizhe Zhang, Jiatao Gu, Zhuofeng Wu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly.* NeurIPS 2023 Jun
  
-48. [**DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**](https://arxiv.org/abs/2306.01657) *Author Placeholder* Arxiv 2023 Jun
+48. [**DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**](https://arxiv.org/abs/2306.01657) *Guanqun Bi, Lei Shen, Yanan Cao, Meng Chen, Yuqiang Xie, Zheng Lin, Xiaodong He.* ACL 2023 Jun
  
-49. [**Likelihood-Based Diffusion Language Models**](https://arxiv.org/abs/2305.18619) *Author Placeholder* Arxiv 2023 May
+49. [**Likelihood-Based Diffusion Language Models**](https://arxiv.org/abs/2305.18619) *Ishaan Gulrajani, Tatsunori B. Hashimoto.* NeurIPS 2023 May
  
-50. [**Dior-CVAE: Pre-trained Language Models and Diffusion Priors for Variational Dialog Generation**](https://arxiv.org/abs/2305.15025) *Author Placeholder* Arxiv 2023 May
+50. [**Dior-CVAE: Pre-trained Language Models and Diffusion Priors for Variational Dialog Generation**](https://arxiv.org/abs/2305.15025) *Tianyu Yang, Thy Thy Tran, Iryna Gurevych.* EMNLP 2023 May
  
 51. [**David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs**](https://arxiv.org/abs/2305.14771) *Author Placeholder* Arxiv 2023 May
  
