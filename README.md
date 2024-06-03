@@ -90,25 +90,25 @@
  
 30. [**A Diffusion Weighted Graph Framework for New Intent Discovery**](https://arxiv.org/abs/2310.15836) *Wenkai Shi, Wenbin An, Feng Tian, Qinghua Zheng, QianYing Wang, Ping Chen.* EMNLP 2023 Oct
  
-31. [**ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts**](https://arxiv.org/abs/2310.15587) *Author Placeholder* Arxiv 2023 Oct
+31. [**ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts**](https://arxiv.org/abs/2310.15587) *Lena Bolliger, David Reich, Patrick Haller, Deborah Jakobi, Paul Prasse, Lena Jäger.* EMNLP 2023 Oct
  
-32. [**DeTiME: Diffusion-Enhanced Topic Modeling using Encoder-decoder based LLM**](https://arxiv.org/abs/2310.15296) *Author Placeholder* Arxiv 2023 Oct
+32. [**DeTiME: Diffusion-Enhanced Topic Modeling using Encoder-decoder based LLM**](https://arxiv.org/abs/2310.15296) *Weijie Xu, Wenxiang Hu, Fanyou Wu, Srinivasan Sengamedu.* EMNLP 2023 Oct
  
-33. [**Context-Aware Prompt for Generation-based Event Argument Extraction with Diffusion Models**](https://dl.acm.org/doi/abs/10.1145/3583780.3614820) *Author Placeholder* Arxiv 2023 Oct
+33. [**Context-Aware Prompt for Generation-based Event Argument Extraction with Diffusion Models**](https://dl.acm.org/doi/abs/10.1145/3583780.3614820) *Lei Luo, Yajing Xu.* CIKM 2023 Oct
  
-34. [**DiffuCom: A novel diffusion model for comment generation**](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008195) *Author Placeholder* Arxiv 2023 Oct
+34. [**DiffuCom: A novel diffusion model for comment generation**](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008195) *Jiamiao Liu, Pengsen Cheng, Jinqiao Dai, Jiayong Liu.* Knowledge-Based Systems 2023 Oct
  
-35. [**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**](https://arxiv.org/abs/2310.11976) *Author Placeholder* Arxiv 2023 Oct
+35. [**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**](https://arxiv.org/abs/2310.11976) *Renzhi Wang, Jing Li, Piji Li.* EMNLP 2023 Oct
  
-36. [**LADIDA: Latent Diffusion for Document Generation with Sequential Decoding**](https://neurips.cc/virtual/2023/74876) *Author Placeholder* Arxiv 2023 Oct
+36. [**LADIDA: Latent Diffusion for Document Generation with Sequential Decoding**](https://neurips.cc/virtual/2023/74876) *Zihuiwen Ye, Elle Michelle Yang, Phil Blunsom.* NeurIPS Workshop on Diffusion Models 2023 Oct
  
-37. [**DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models**](https://arxiv.org/abs/2310.05793) *Author Placeholder* Arxiv 2023 Oct
+37. [**DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models**](https://arxiv.org/abs/2310.05793) *Shansan Gong, Mukai Li, Jiangtao Feng, Zhiyong Wu, Lingpeng Kong.* EMNLP 2023 Oct
  
-38. [**DiffusionRet: Diffusion-Enhanced Generative Retriever using Constrained Decoding**](https://aclanthology.org/2023.findings-emnlp.638/) *Author Placeholder* Arxiv 2023 Oct
+38. [**DiffusionRet: Diffusion-Enhanced Generative Retriever using Constrained Decoding**](https://aclanthology.org/2023.findings-emnlp.638/) *Shanbao Qiao, Xuebing Liu, Seung-Hoon Na.* EMNLP 2023 Oct
  
-39. [**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**](https://arxiv.org/abs/2308.15459) *Author Placeholder* Arxiv 2023 Aug
+39. [**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**](https://arxiv.org/abs/2308.15459) *Zachary Horvitz, Ajay Patel, Chris Callison-Burch, Zhou Yu, Kathleen McKeown.* AAAI 2023 Aug
  
-40. [**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**](https://arxiv.org/abs/2308.12219) *Author Placeholder* Arxiv 2023 Aug
+40. [**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**](https://arxiv.org/abs/2308.12219) *Jiasheng Ye, Zaixiang Zheng, Yu Bao, Lihua Qian, Quanquan Gu.* Arxiv 2023 Aug
  
 41. [**Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction**](https://arxiv.org/abs/2308.08739) *Author Placeholder* Arxiv 2023 Aug
  
