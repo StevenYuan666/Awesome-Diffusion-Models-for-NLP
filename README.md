@@ -30,25 +30,25 @@
 
 
 ## 📝 Papers
-1. [**Effective Integration of Text Diffusion and Pre-Trained Language Models with Linguistic Easy-First Schedule**](https://aclanthology.org/2024.lrec-main.493/) *Author Placeholder* Arxiv 2024 May
+1. [**Effective Integration of Text Diffusion and Pre-Trained Language Models with Linguistic Easy-First Schedule**](https://aclanthology.org/2024.lrec-main.493/) *Yimin Ou, Ping Jian* LREC | COLING 2024 May
  
-2. [**Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation**](https://aclanthology.org/2024.lrec-main.637/) *Author Placeholder* Arxiv 2024 May
+2. [**Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation**](https://aclanthology.org/2024.lrec-main.637/) *Bocheng Li, Zhujin Gao, Yongxin Zhu, Kun Yin, Haoyu Cao, Deqiang Jiang, Linli Xu* LREC | COLING 2024 May
  
-3. [**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**](https://arxiv.org/abs/2404.10763) *Author Placeholder* Arxiv 2024 Apr
+3. [**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**](https://arxiv.org/abs/2404.10763) *Yuchi Wang, Shuhuai Ren, Rundong Gao, Linli Yao, Qingyan Guo, Kaikai An, Jianhong Bai, Xu Sun* NAACL 2024 Apr
  
-4. [**Enforcing Paraphrase Generation via Controllable Latent Diffusion**](https://arxiv.org/abs/2404.08938) *Author Placeholder* Arxiv 2024 Apr
+4. [**Enforcing Paraphrase Generation via Controllable Latent Diffusion**](https://arxiv.org/abs/2404.08938) *Wei Zou, Ziyuan Zhuang, Shujian Huang, Jia Liu, Jiajun Chen* Arxiv 2024 Apr
  
-5. [**Diffuwords: A Contrastive Diffusion Model for Lexically Constrained Text Generation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790017) *Author Placeholder* Arxiv 2024 Apr
+5. [**Diffuwords: A Contrastive Diffusion Model for Lexically Constrained Text Generation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790017) *Jinqiao Dai, Pengsen Cheng, Jiamiao Liu, Jiayong Liu* SSRN 2024 Apr
  
-6. [**DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space**](https://arxiv.org/abs/2404.06760) *Author Placeholder* Arxiv 2024 Apr
+6. [**DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space**](https://arxiv.org/abs/2404.06760) *Jianxiang Xiang, Zhenhua Liu, Haodong Liu, Yin Bai, Jia Cheng, Wenliang Chen* LREC | COLING 2024 Apr
  
-7. [**Improving Iteration-based Non-Autoregressive Language Model With Time Step Awareness**](https://www.researchgate.net/publication/379326543_Improving_Iteration-based_Non-Autoregressive_Language_Model_With_Time_Step_Awareness) *Author Placeholder* Arxiv 2024 Mar
+7. [**Improving Iteration-based Non-Autoregressive Language Model With Time Step Awareness**](https://www.researchgate.net/publication/379326543_Improving_Iteration-based_Non-Autoregressive_Language_Model_With_Time_Step_Awareness) *Hang Jiang, Guoyong Cai, Xiaolu Tang* ICPADS 2024 Mar
  
-8. [**Language Rectified Flow: Advancing Diffusion Language Generation with Probabilistic Flows**](https://arxiv.org/abs/2403.16995) *Author Placeholder* Arxiv 2024 Mar
+8. [**Language Rectified Flow: Advancing Diffusion Language Generation with Probabilistic Flows**](https://arxiv.org/abs/2403.16995) *Shujian Zhang, Lemeng Wu, Chengyue Gong, Xingchao Liu* NAACL 2024 Mar
  
-9. [**Flow Matching for Conditional Text Generation in a Few Sampling Steps**](https://aclanthology.org/2024.eacl-short.33/) *Author Placeholder* Arxiv 2024 Mar
+9. [**Flow Matching for Conditional Text Generation in a Few Sampling Steps**](https://aclanthology.org/2024.eacl-short.33/) *Vincent Hu, Di Wu, Yuki Asano, Pascal Mettes, Basura Fernando, Björn Ommer, Cees Snoek* EACL 2024 Mar
  
-10. [**Utilizing Latent Diffusion Model to Accelerate Sampling Speed and Enhance Text Generation Quality**](https://www.mdpi.com/2079-9292/13/6/1093) *Author Placeholder* Arxiv 2024 Mar
+10. [**Utilizing Latent Diffusion Model to Accelerate Sampling Speed and Enhance Text Generation Quality**](https://www.mdpi.com/2079-9292/13/6/1093) *Chenyang Li, Long Zhang, Qiusheng Zheng* Special Issue Advances in Artificial Intelligence Engineering 2024 Mar
  
 11. [**LDSeq: Latent Diffusion Models for Sequence to Sequence Text Generation**](https://dl.acm.org/doi/10.1145/3638584.3638617) *Author Placeholder* Arxiv 2024 Mar
  
