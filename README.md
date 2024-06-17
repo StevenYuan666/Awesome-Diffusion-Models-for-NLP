@@ -16,21 +16,23 @@
 ## 🌟 What is the Diffusion Model For NLP?
 
 ## 🔗 Surveys
-1. [**Diffusion models in text generation: a survey**](https://peerj.com/articles/cs-1905/) *Qiuhua Yi, Xiangfan Chen, Chenwei Zhang, Zehai Zhou, Linan Zhu, Xiangjie Kong.* **PeerJ Computer Science** 2024 Feb
+- [**Diffusion models in text generation: a survey**](https://peerj.com/articles/cs-1905/) *Qiuhua Yi, Xiangfan Chen, Chenwei Zhang, Zehai Zhou, Linan Zhu, Xiangjie Kong.* **PeerJ Computer Science** 2024 Feb
  
-2. [**An Overview of Diffusion Models for Text Generation**](https://ieeexplore.ieee.org/document/10159911) *Helena Čeović, Marin Šilić, Goran Delač, Klemo Vladimir.* **MIPRO** 2023 Jun
+- [**An Overview of Diffusion Models for Text Generation**](https://ieeexplore.ieee.org/document/10159911) *Helena Čeović, Marin Šilić, Goran Delač, Klemo Vladimir.* **MIPRO** 2023 Jun
  
-3. [**A Survey of Diffusion Models in Natural Language Processing**](https://arxiv.org/abs/2305.14671) *Hao Zou, Zae Myung Kim, Dongyeop Kang.* **Arxiv** 2023 May
+- [**A Survey of Diffusion Models in Natural Language Processing**](https://arxiv.org/abs/2305.14671) *Hao Zou, Zae Myung Kim, Dongyeop Kang.* **Arxiv** 2023 May
  
-4. [**Diffusion Models in NLP: A Survey**](https://arxiv.org/abs/2303.07576) *Yuansong Zhu, Yu Zhao.* **Arxiv** 2023 Mar
+- [**Diffusion Models in NLP: A Survey**](https://arxiv.org/abs/2303.07576) *Yuansong Zhu, Yu Zhao.* **Arxiv** 2023 Mar
  
-5. [**Diffusion Models for Non-autoregressive Text Generation: A Survey**](https://arxiv.org/abs/2303.06574) *Yifan Li, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen.* **IJCAI** 2023 Mar
+- [**Diffusion Models for Non-autoregressive Text Generation: A Survey**](https://arxiv.org/abs/2303.06574) *Yifan Li, Kun Zhou, Wayne Xin Zhao, Ji-Rong Wen.* **IJCAI** 2023 Mar
  
 
 
 
 ## 📝 Papers
-1. [**Effective Integration of Text Diffusion and Pre-Trained Language Models with Linguistic Easy-First Schedule**](https://aclanthology.org/2024.lrec-main.493/) *Yimin Ou, Ping Jian.* **LREC | COLING 2024** May
+1. 
+
+2. [**Effective Integration of Text Diffusion and Pre-Trained Language Models with Linguistic Easy-First Schedule**](https://aclanthology.org/2024.lrec-main.493/) *Yimin Ou, Ping Jian.* **LREC | COLING 2024** May
  
 2. [**Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation**](https://aclanthology.org/2024.lrec-main.637/) *Bocheng Li, Zhujin Gao, Yongxin Zhu, Kun Yin, Haoyu Cao, Deqiang Jiang, Linli Xu.* **LREC | COLING 2024** May
  
