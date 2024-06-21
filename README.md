@@ -30,6 +30,8 @@
 
 
 ## 📝 Papers
+- [**Empowering Diffusion Models on the Embedding Space for Text Generation**](https://aclanthology.org/2024.naacl-long.261/) *Zhujin Gao, Junliang Guo, Xu Tan, Yongxin Zhu, Fang Zhang, Jiang Bian, Linli Xu.* **NAACL** 2024 June 
+
 -  [**Simple and Effective Masked Diffusion Language Models**](https://arxiv.org/abs/2406.07524) *Subham Sekhar Sahoo, Marianne Arriola, Yair Schiff, Aaron Gokaslan, Edgar Marroquin, Justin T Chiu, Alexander Rush, Volodymyr Kuleshov.* **Arxiv** 2024 June
 
 - [**Effective Integration of Text Diffusion and Pre-Trained Language Models with Linguistic Easy-First Schedule**](https://aclanthology.org/2024.lrec-main.493/) *Yimin Ou, Ping Jian.* **LREC | COLING** 2024 May
