@@ -30,6 +30,8 @@
 
 
 ## 📝 Papers
+- [**Empirical Analysis of Decoding Biases in Masked Diffusion Models**](https://aclanthology.org/2026.acl-long.311/) *Pengcheng Huang, Tianming Liu, Zhenghao Liu, Yukun Yan, Shuo Wang, Tong Xiao, Zulong Chen, Maosong Sun.* **ACL** 2026 July
+
 - [**Empowering Diffusion Models on the Embedding Space for Text Generation**](https://aclanthology.org/2024.naacl-long.261/) *Zhujin Gao, Junliang Guo, Xu Tan, Yongxin Zhu, Fang Zhang, Jiang Bian, Linli Xu.* **NAACL** 2024 June 
 
 -  [**Simple and Effective Masked Diffusion Language Models**](https://arxiv.org/abs/2406.07524) *Subham Sekhar Sahoo, Marianne Arriola, Yair Schiff, Aaron Gokaslan, Edgar Marroquin, Justin T Chiu, Alexander Rush, Volodymyr Kuleshov.* **Arxiv** 2024 June
